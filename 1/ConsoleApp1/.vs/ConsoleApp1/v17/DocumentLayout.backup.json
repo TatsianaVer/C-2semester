@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\1\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0559025-18CD-4C9D-9CEE-B3A18C6D3846}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\1\\consoleapp1\\consoleapp1\\teachers\\universitydataprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0559025-18CD-4C9D-9CEE-B3A18C6D3846}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\teachers\\universitydataprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0559025-18CD-4C9D-9CEE-B3A18C6D3846}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\1\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0559025-18CD-4C9D-9CEE-B3A18C6D3846}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0559025-18CD-4C9D-9CEE-B3A18C6D3846}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\1\\consoleapp1\\consoleapp1\\errors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0559025-18CD-4C9D-9CEE-B3A18C6D3846}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\errors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0559025-18CD-4C9D-9CEE-B3A18C6D3846}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\1\\consoleapp1\\consoleapp1\\appconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0559025-18CD-4C9D-9CEE-B3A18C6D3846}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\appconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0559025-18CD-4C9D-9CEE-B3A18C6D3846}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\1\\consoleapp1\\consoleapp1\\teachers\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0559025-18CD-4C9D-9CEE-B3A18C6D3846}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\teachers\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0559025-18CD-4C9D-9CEE-B3A18C6D3846}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\1\\consoleapp1\\consoleapp1\\teachers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0559025-18CD-4C9D-9CEE-B3A18C6D3846}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\teachers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0559025-18CD-4C9D-9CEE-B3A18C6D3846}|ConsoleApp1\\1.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\1\\consoleapp1\\consoleapp1\\array\\arrayanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0559025-18CD-4C9D-9CEE-B3A18C6D3846}|ConsoleApp1\\1.csproj|solutionrelative:consoleapp1\\array\\arrayanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0559025-18CD-4C9D-9CEE-B3A18C6D3846}|ConsoleApp1\\First.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\1\\consoleapp1\\consoleapp1\\array\\mathcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0559025-18CD-4C9D-9CEE-B3A18C6D3846}|ConsoleApp1\\First.csproj|solutionrelative:consoleapp1\\array\\mathcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0559025-18CD-4C9D-9CEE-B3A18C6D3846}|ConsoleApp1\\1.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\1\\consoleapp1\\consoleapp1\\array\\arrayprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0559025-18CD-4C9D-9CEE-B3A18C6D3846}|ConsoleApp1\\1.csproj|solutionrelative:consoleapp1\\array\\arrayprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0559025-18CD-4C9D-9CEE-B3A18C6D3846}|ConsoleApp1\\1.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\1\\consoleapp1\\consoleapp1\\array\\arraymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0559025-18CD-4C9D-9CEE-B3A18C6D3846}|ConsoleApp1\\1.csproj|solutionrelative:consoleapp1\\array\\arraymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\1\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\1\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:45:27.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Errors.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\1\\ConsoleApp1\\ConsoleApp1\\Errors.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Errors.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\1\\ConsoleApp1\\ConsoleApp1\\Errors.cs",
+              "RelativeToolTip": "ConsoleApp1\\Errors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:40:20.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UniversityDataProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\1\\ConsoleApp1\\ConsoleApp1\\Teachers\\UniversityDataProcessor.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Teachers\\UniversityDataProcessor.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\1\\ConsoleApp1\\ConsoleApp1\\Teachers\\UniversityDataProcessor.cs*",
+              "RelativeToolTip": "ConsoleApp1\\Teachers\\UniversityDataProcessor.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T19:59:47.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppConstants.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\1\\ConsoleApp1\\ConsoleApp1\\AppConstants.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\AppConstants.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\1\\ConsoleApp1\\ConsoleApp1\\AppConstants.cs",
+              "RelativeToolTip": "ConsoleApp1\\AppConstants.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwC0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T19:46:42.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\1\\ConsoleApp1\\ConsoleApp1\\Teachers\\Teacher.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Teachers\\Teacher.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\1\\ConsoleApp1\\ConsoleApp1\\Teachers\\Teacher.cs",
+              "RelativeToolTip": "ConsoleApp1\\Teachers\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T19:43:48.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\1\\ConsoleApp1\\ConsoleApp1\\Teachers\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Teachers\\Program.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\1\\ConsoleApp1\\ConsoleApp1\\Teachers\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Teachers\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:13:51.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArrayAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\1\\ConsoleApp1\\ConsoleApp1\\Array\\ArrayAnalyzer.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Array\\ArrayAnalyzer.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\1\\ConsoleApp1\\ConsoleApp1\\Array\\ArrayAnalyzer.cs",
+              "RelativeToolTip": "ConsoleApp1\\Array\\ArrayAnalyzer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T23:23:35.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MathCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\1\\ConsoleApp1\\ConsoleApp1\\Array\\MathCalculator.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Array\\MathCalculator.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\1\\ConsoleApp1\\ConsoleApp1\\Array\\MathCalculator.cs",
+              "RelativeToolTip": "ConsoleApp1\\Array\\MathCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T23:25:13.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArrayProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\1\\ConsoleApp1\\ConsoleApp1\\Array\\ArrayProcessor.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Array\\ArrayProcessor.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\1\\ConsoleApp1\\ConsoleApp1\\Array\\ArrayProcessor.cs",
+              "RelativeToolTip": "ConsoleApp1\\Array\\ArrayProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T23:24:04.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ArrayManager.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\1\\ConsoleApp1\\ConsoleApp1\\Array\\ArrayManager.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Array\\ArrayManager.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\1\\ConsoleApp1\\ConsoleApp1\\Array\\ArrayManager.cs",
+              "RelativeToolTip": "ConsoleApp1\\Array\\ArrayManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T23:23:54.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

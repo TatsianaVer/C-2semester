@@ -1,0 +1,15 @@
+C:\Users\tatan\Documents\GitHub\C-2semester\1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\First.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tatan\Documents\GitHub\C-2semester\1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\First.AssemblyInfoInputs.cache
+C:\Users\tatan\Documents\GitHub\C-2semester\1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\First.AssemblyInfo.cs
+C:\Users\tatan\Documents\GitHub\C-2semester\1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\First.csproj.CoreCompileInputs.cache
+C:\Users\tatan\Documents\GitHub\C-2semester\1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\First.sourcelink.json
+C:\Users\tatan\Documents\GitHub\C-2semester\1\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\First.exe
+C:\Users\tatan\Documents\GitHub\C-2semester\1\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\First.deps.json
+C:\Users\tatan\Documents\GitHub\C-2semester\1\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\First.runtimeconfig.json
+C:\Users\tatan\Documents\GitHub\C-2semester\1\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\First.dll
+C:\Users\tatan\Documents\GitHub\C-2semester\1\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\First.pdb
+C:\Users\tatan\Documents\GitHub\C-2semester\1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\First.dll
+C:\Users\tatan\Documents\GitHub\C-2semester\1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\First.dll
+C:\Users\tatan\Documents\GitHub\C-2semester\1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\First.pdb
+C:\Users\tatan\Documents\GitHub\C-2semester\1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\First.genruntimeconfig.cache
+C:\Users\tatan\Documents\GitHub\C-2semester\1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\First.dll
