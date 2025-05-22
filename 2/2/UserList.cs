@@ -19,7 +19,7 @@ namespace Chat
         public int Count
         {
             get
-            { 
+            {
                 return _users.Count;
             }
         }

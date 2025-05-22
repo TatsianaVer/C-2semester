@@ -17,7 +17,7 @@ namespace Chat
         public static void Main()
         {
             /// 
-           Chat chat = new Chat(ChatConstants.MyChat);
+            Chat chat = new Chat(ChatConstants.MyChat);
 
             Console.WriteLine(ChatConstants.InitialState);
             Console.WriteLine(chat.GetChatInfo());

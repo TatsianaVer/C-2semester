@@ -133,7 +133,7 @@ namespace Chat
             string chatInfo =
                 ChatConstants.Chat + ": " + ChatName + ", " +
                 ChatConstants.Users + ": " + UsersCount.ToString() + ", " +
-                ChatConstants.Messages + ": " + MessagesCount.ToString() + ", " + 
+                ChatConstants.Messages + ": " + MessagesCount.ToString() + ", " +
                 ChatConstants.Participants + ": " + participants;
 
             return chatInfo;

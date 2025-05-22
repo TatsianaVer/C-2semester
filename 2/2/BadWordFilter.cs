@@ -49,7 +49,7 @@ namespace Chat
         {
             string normalizedMessage = message.ToLower();
 
-            for (int i = 0; i < _badWords.Count;i++)
+            for (int i = 0; i < _badWords.Count; i++)
             {
                 string badWord = _badWords[i];
 
