@@ -1,41 +1,82 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace TextProcessor
 {
+    /// <summary>
+    /// Analyzes text to find word-related statistics and format words.
+    /// </summary>
     public class TextAnalyzer
     {
+        /// <summary>
+        /// The text to analyze.
+        /// </summary>
         private readonly string _text;
+
+        /// <summary>
+        /// Characters used as separators to split the text into words.
+        /// </summary>
         private readonly char[] _separators = { ' ', ',', '.', '\n', '\r' };
 
+        /// <summary>
+        /// Initializes a new instance of the <see cref="TextAnalyzer"/> class.
+        /// </summary>
+        /// <param name="text">The text to be analyzed</param>
+        /// <exception cref="ArgumentNullException">Thrown if <paramref name="text"/> is null.</exception>
         public TextAnalyzer(string text)
         {
-            _text = text ?? throw new ArgumentNullException(nameof(text));
+            if (text == null)
+            {
+                throw new ArgumentNullException(nameof(text));
+            }
+
+            _text = text;
         }
 
+        /// <summary>
+        /// Gets the number of occurrences of the longest words in the text.
+        /// </summary>
+        /// <returns>The count of words that have the maximum length.</returns>
         public int GetLongestWordOccurrences()
         {
-            var words = GetWords();
-            if (words.Count == 0) return 0;
+            List<string> words = GetWords();
 
-            var maxLength = words.Max(w => w.Length);
-            return words.Count(w => w.Length == maxLength);
+            if (words.Count == 0)
+            {
+                return 0;
+            }
+
+            int maxLength = words.Max(w => w.Length);
+
+            int count = words.Count(w => w.Length == maxLength);
+            return count;
         }
 
+        /// <summary>
+        /// Returns a string with each word enclosed in parentheses and concatenated.
+        /// </summary>
+        /// <returns>A concatenated string of all words wrapped in parentheses.</returns>
         public string GetBracketedWordsString()
         {
-            var words = GetWords();
-            return string.Join("", words.Select(w => $"({w})"));
+            List<string> words = GetWords();
+
+            IEnumerable<string> bracketedWords = words.Select(w => $"({w})");
+
+            string result = string.Join("", bracketedWords);
+            return result;
         }
 
+        /// <summary>
+        /// Splits the text into a list of words based on separators, removing empty or whitespace-only entries.
+        /// </summary>
+        /// <returns>A list of non-empty, trimmed words.</returns>
         private List<string> GetWords()
         {
-            return _text.Split(_separators, StringSplitOptions.RemoveEmptyEntries)
-                        .Where(w => !string.IsNullOrWhiteSpace(w))
-                        .ToList();
+            string[] splitWords = _text.Split(_separators, StringSplitOptions.RemoveEmptyEntries);
+
+            IEnumerable<string> filteredWords = splitWords.Where(w => !string.IsNullOrWhiteSpace(w));
+
+            List<string> wordsList = filteredWords.ToList();
+
+            return wordsList; 
         }
     }
 }

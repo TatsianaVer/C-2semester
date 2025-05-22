@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tatan\\Desktop\\EHU-projects\\6\\1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{448A7528-989B-4858-9FDF-E9D93338F1D1}|1\\1.csproj|c:\\users\\tatan\\desktop\\ehu-projects\\6\\1\\1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448A7528-989B-4858-9FDF-E9D93338F1D1}|1\\1.csproj|solutionrelative:1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448A7528-989B-4858-9FDF-E9D93338F1D1}|1\\1.csproj|c:\\users\\tatan\\desktop\\ehu-projects\\6\\1\\1\\appconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448A7528-989B-4858-9FDF-E9D93338F1D1}|1\\1.csproj|solutionrelative:1\\appconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448A7528-989B-4858-9FDF-E9D93338F1D1}|1\\1.csproj|c:\\users\\tatan\\desktop\\ehu-projects\\6\\1\\1\\array\\mathcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448A7528-989B-4858-9FDF-E9D93338F1D1}|1\\1.csproj|solutionrelative:1\\array\\mathcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448A7528-989B-4858-9FDF-E9D93338F1D1}|1\\1.csproj|c:\\users\\tatan\\desktop\\ehu-projects\\6\\1\\1\\array\\arrayprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448A7528-989B-4858-9FDF-E9D93338F1D1}|1\\1.csproj|solutionrelative:1\\array\\arrayprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448A7528-989B-4858-9FDF-E9D93338F1D1}|1\\1.csproj|c:\\users\\tatan\\desktop\\ehu-projects\\6\\1\\1\\array\\arraymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448A7528-989B-4858-9FDF-E9D93338F1D1}|1\\1.csproj|solutionrelative:1\\array\\arraymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448A7528-989B-4858-9FDF-E9D93338F1D1}|1\\1.csproj|c:\\users\\tatan\\desktop\\ehu-projects\\6\\1\\1\\array\\arrayanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448A7528-989B-4858-9FDF-E9D93338F1D1}|1\\1.csproj|solutionrelative:1\\array\\arrayanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448A7528-989B-4858-9FDF-E9D93338F1D1}|1\\1.csproj|c:\\users\\tatan\\desktop\\ehu-projects\\6\\1\\1\\teachers\\universitydataprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448A7528-989B-4858-9FDF-E9D93338F1D1}|1\\1.csproj|solutionrelative:1\\teachers\\universitydataprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448A7528-989B-4858-9FDF-E9D93338F1D1}|1\\1.csproj|c:\\users\\tatan\\desktop\\ehu-projects\\6\\1\\1\\teachers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448A7528-989B-4858-9FDF-E9D93338F1D1}|1\\1.csproj|solutionrelative:1\\teachers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448A7528-989B-4858-9FDF-E9D93338F1D1}|1\\1.csproj|c:\\users\\tatan\\desktop\\ehu-projects\\6\\1\\1\\teachers\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448A7528-989B-4858-9FDF-E9D93338F1D1}|1\\1.csproj|solutionrelative:1\\teachers\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448A7528-989B-4858-9FDF-E9D93338F1D1}|1\\1.csproj|c:\\users\\tatan\\desktop\\ehu-projects\\6\\1\\1\\errors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448A7528-989B-4858-9FDF-E9D93338F1D1}|1\\1.csproj|solutionrelative:1\\errors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppConstants.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Desktop\\EHU-projects\\6\\1\\1\\AppConstants.cs",
+              "RelativeDocumentMoniker": "1\\AppConstants.cs",
+              "ToolTip": "C:\\Users\\tatan\\Desktop\\EHU-projects\\6\\1\\1\\AppConstants.cs",
+              "RelativeToolTip": "1\\AppConstants.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:24:48.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Desktop\\EHU-projects\\6\\1\\1\\Program.cs",
+              "RelativeDocumentMoniker": "1\\Program.cs",
+              "ToolTip": "C:\\Users\\tatan\\Desktop\\EHU-projects\\6\\1\\1\\Program.cs",
+              "RelativeToolTip": "1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:26:12.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MathCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Desktop\\EHU-projects\\6\\1\\1\\Array\\MathCalculator.cs",
+              "RelativeDocumentMoniker": "1\\Array\\MathCalculator.cs",
+              "ToolTip": "C:\\Users\\tatan\\Desktop\\EHU-projects\\6\\1\\1\\Array\\MathCalculator.cs",
+              "RelativeToolTip": "1\\Array\\MathCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:21:57.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArrayProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Desktop\\EHU-projects\\6\\1\\1\\Array\\ArrayProcessor.cs",
+              "RelativeDocumentMoniker": "1\\Array\\ArrayProcessor.cs",
+              "ToolTip": "C:\\Users\\tatan\\Desktop\\EHU-projects\\6\\1\\1\\Array\\ArrayProcessor.cs",
+              "RelativeToolTip": "1\\Array\\ArrayProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:21:14.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArrayManager.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Desktop\\EHU-projects\\6\\1\\1\\Array\\ArrayManager.cs",
+              "RelativeDocumentMoniker": "1\\Array\\ArrayManager.cs",
+              "ToolTip": "C:\\Users\\tatan\\Desktop\\EHU-projects\\6\\1\\1\\Array\\ArrayManager.cs",
+              "RelativeToolTip": "1\\Array\\ArrayManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:20:38.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArrayAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Desktop\\EHU-projects\\6\\1\\1\\Array\\ArrayAnalyzer.cs",
+              "RelativeDocumentMoniker": "1\\Array\\ArrayAnalyzer.cs",
+              "ToolTip": "C:\\Users\\tatan\\Desktop\\EHU-projects\\6\\1\\1\\Array\\ArrayAnalyzer.cs",
+              "RelativeToolTip": "1\\Array\\ArrayAnalyzer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:19:41.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UniversityDataProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Desktop\\EHU-projects\\6\\1\\1\\Teachers\\UniversityDataProcessor.cs",
+              "RelativeDocumentMoniker": "1\\Teachers\\UniversityDataProcessor.cs",
+              "ToolTip": "C:\\Users\\tatan\\Desktop\\EHU-projects\\6\\1\\1\\Teachers\\UniversityDataProcessor.cs",
+              "RelativeToolTip": "1\\Teachers\\UniversityDataProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:24:09.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Desktop\\EHU-projects\\6\\1\\1\\Teachers\\Program.cs",
+              "RelativeDocumentMoniker": "1\\Teachers\\Program.cs",
+              "ToolTip": "C:\\Users\\tatan\\Desktop\\EHU-projects\\6\\1\\1\\Teachers\\Program.cs",
+              "RelativeToolTip": "1\\Teachers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:23:29.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Desktop\\EHU-projects\\6\\1\\1\\Teachers\\Teacher.cs",
+              "RelativeDocumentMoniker": "1\\Teachers\\Teacher.cs",
+              "ToolTip": "C:\\Users\\tatan\\Desktop\\EHU-projects\\6\\1\\1\\Teachers\\Teacher.cs",
+              "RelativeToolTip": "1\\Teachers\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:22:49.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Errors.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Desktop\\EHU-projects\\6\\1\\1\\Errors.cs",
+              "RelativeDocumentMoniker": "1\\Errors.cs",
+              "ToolTip": "C:\\Users\\tatan\\Desktop\\EHU-projects\\6\\1\\1\\Errors.cs",
+              "RelativeToolTip": "1\\Errors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:25:27.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

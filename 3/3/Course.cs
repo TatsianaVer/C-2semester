@@ -4,16 +4,65 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/// <summary>
+/// Represents a course with a name, credit hours, and a grade.
+/// </summary>
 public class Course
 {
-    public string Name { get; }
-    public double Credit { get; }
-    public double Grade {  get; }
+    /// <summary>
+    /// Private backing field for the Name property.
+    /// </summary>
+    private readonly string _name;
+
+    /// <summary>
+    /// Private backing field for the Credit property.
+    /// </summary>
+    private readonly double _credit;
+
+    /// <summary>
+    /// Private backing field for the Grade property.
+    /// </summary>
+    private readonly double _grade;
+
+    /// <summary>
+    /// Gets the name of the course.
+    /// </summary>
+    public string Name
+    {
+        get
+        { 
+            return _name;
+        }
+    }
+
+    /// <summary>
+    /// Gets the credit hours of the course.
+    /// </summary>
+    public double Credit
+    {
+        get
+        {
+            return _credit;
+        }
+    }
+
+    /// <summary>
+    /// Gets the grade for the course.
+    /// </summary>
+    public double Grade
+    {
+        get
+        { 
+            return _grade;
+        }
+        private set { }
+    }
 
     public Course (string name, double credit, double grade)
     {
-        Name = name; 
-        Credit = credit; 
-        Grade = grade;
+        _name = name; 
+        _credit = credit; 
+        _grade = grade;
     }
+    
 }

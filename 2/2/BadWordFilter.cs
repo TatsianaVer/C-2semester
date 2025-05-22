@@ -6,12 +6,60 @@ using System.Threading.Tasks;
 
 namespace Chat
 {
+    /// <summary>
+    /// Filters and manages prohibited words in chat messages
+    /// </summary>
     internal class BadWordFilter
     {
-        private readonly HashSet<string> _badWords = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
+        /// <summary>
+        /// List of prohibited words (case insensitive)
+        /// </summary>
+        private readonly List<string> _badWords = new List<string>();
 
-        public void Add(string word) => _badWords.Add(word.ToLower());
+        /// <summary>
+        /// Adds a word to the list of prohibited words
+        /// </summary>
+        /// <param name="word">The word to add</param>
+        public void Add(string word)
+        {
+            string normalizedWord = word.ToLower();
 
-        public bool ContainsBadWord(string message) => _badWords.Any(badWord => message.ToLower().Contains(badWord));
+            bool found = false;
+            for (int i = 0; i < _badWords.Count; i++)
+            {
+                if (_badWords[i] == normalizedWord)
+                {
+                    found = true;
+                    break;
+                }
+            }
+
+            if (!found)
+            {
+                _badWords.Add(normalizedWord);
+            }
+        }
+
+        /// <summary>
+        /// Checks if a message contains any prohibited words
+        /// </summary>
+        /// <param name="message">The message to check</param>
+        /// <returns>True if message contains prohibited words, false otherwise</returns>
+        public bool ContainsBadWord(string message)
+        {
+            string normalizedMessage = message.ToLower();
+
+            for (int i = 0; i < _badWords.Count;i++)
+            {
+                string badWord = _badWords[i];
+
+                if (normalizedMessage.Contains(badWord))
+                {
+                    return true;
+                }
+            }
+
+            return false;
+        }
     }
 }

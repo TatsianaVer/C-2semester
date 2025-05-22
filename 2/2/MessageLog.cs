@@ -11,15 +11,44 @@ namespace Chat
         private readonly List<string> _messages = new List<string>();
         private readonly BadWordFilter _badWordFilter;
 
-        public MessageLog(BadWordFilter badWordFilter) => _badWordFilter = badWordFilter;
+        /// <summary>
+        /// Initializes a new instance of the MessageLog class.
+        /// </summary>
+        /// <param name="badWordFilter">The bad word filter instance to check messages against.</param>
+        public MessageLog(BadWordFilter badWordFilter)
+        {
+            _badWordFilter = badWordFilter;
+        }
 
-        public int Count => _messages.Count;
+        /// <summary>
+        /// Gets the total number of messages in the log.
+        /// </summary>
+        public int Count
+        {
+            get
+            {
+                return _messages.Count;
+            }
+        }
 
+        /// <summary>
+        /// Adds a new message to the log if it contains no bad words.
+        /// </summary>
+        /// <param name="username">The username of the message sender.</param>
+        /// <param name="message">The message content.</param>
+        /// <returns>True if the message was added; 
+        /// false if it contained bad words.</returns>
         public bool Add(string username, string message)
         {
-            if (_badWordFilter.ContainsBadWord(message)) return false;
+            bool containsBadWords = _badWordFilter.ContainsBadWord(message);
+            if (containsBadWords)
+            {
+                return false;
+            }
 
-            _messages.Add($"{username}: {message}");
+            string formattedMessage = string.Format("{0}: {1}", username, message);
+            _messages.Add(formattedMessage);
+
             return true;
         }
     }

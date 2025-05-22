@@ -6,11 +6,18 @@ using System.Threading.Tasks;
 
 namespace Chat
 {
+    /// <summary>
+    /// Main application entry point
+    /// </summary>
     public class Program
     {
+        /// <summary>
+        /// Application entry method
+        /// </summary>
         public static void Main()
         {
-            var chat = new Chat(ChatConstants.MyChat);
+            /// 
+           Chat chat = new Chat(ChatConstants.MyChat);
 
             Console.WriteLine(ChatConstants.InitialState);
             Console.WriteLine(chat.GetChatInfo());

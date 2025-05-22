@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 public class CourseConstants
 {
+    /// <summary>
+    /// Constants
+    /// </summary>
     public const double TotalGradePoints = 0.0;
 
 }

@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 public class Program
 {
+    /// <summary>
+    /// The main method that creates lesson instances, conducts them, and changes their duration.
+    /// </summary>
+    /// <param name="args">Command-line arguments.</param>
     public static void Main(string[] args)
     {
         MathLesson math = new MathLesson("Algebra");

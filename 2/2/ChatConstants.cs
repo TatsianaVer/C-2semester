@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Chat
 {
+    /// <summary>
+    /// Contains all constant strings used in the chat system
+    /// </summary>
     public static class ChatConstants
     {
         public const string ChatNameError = "Chat name required";

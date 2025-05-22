@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DCD51CD1-24DD-4B7A-A468-6A40F4445A4B}|2\\2.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\2\\2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCD51CD1-24DD-4B7A-A468-6A40F4445A4B}|2\\2.csproj|solutionrelative:2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DCD51CD1-24DD-4B7A-A468-6A40F4445A4B}|2\\2.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\2\\2\\badwordfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD51CD1-24DD-4B7A-A468-6A40F4445A4B}|2\\2.csproj|solutionrelative:2\\badwordfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DCD51CD1-24DD-4B7A-A468-6A40F4445A4B}|2\\2.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\2\\2\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,12 +15,12 @@
       "RelativeMoniker": "D:0:0:{DCD51CD1-24DD-4B7A-A468-6A40F4445A4B}|2\\2.csproj|solutionrelative:2\\chatconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCD51CD1-24DD-4B7A-A468-6A40F4445A4B}|2\\2.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\2\\2\\messagelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCD51CD1-24DD-4B7A-A468-6A40F4445A4B}|2\\2.csproj|solutionrelative:2\\messagelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DCD51CD1-24DD-4B7A-A468-6A40F4445A4B}|2\\2.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\2\\2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD51CD1-24DD-4B7A-A468-6A40F4445A4B}|2\\2.csproj|solutionrelative:2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCD51CD1-24DD-4B7A-A468-6A40F4445A4B}|2\\2.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\2\\2\\badwordfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCD51CD1-24DD-4B7A-A468-6A40F4445A4B}|2\\2.csproj|solutionrelative:2\\badwordfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DCD51CD1-24DD-4B7A-A468-6A40F4445A4B}|2\\2.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\2\\2\\messagelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD51CD1-24DD-4B7A-A468-6A40F4445A4B}|2\\2.csproj|solutionrelative:2\\messagelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DCD51CD1-24DD-4B7A-A468-6A40F4445A4B}|2\\2.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\2\\2\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,28 +39,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BadWordFilter.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\2\\2\\BadWordFilter.cs",
+              "RelativeDocumentMoniker": "2\\BadWordFilter.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\2\\2\\BadWordFilter.cs",
+              "RelativeToolTip": "2\\BadWordFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T01:06:38.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\2\\2\\Program.cs",
               "RelativeDocumentMoniker": "2\\Program.cs",
-              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\2\\2\\Program.cs*",
-              "RelativeToolTip": "2\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\2\\2\\Program.cs",
+              "RelativeToolTip": "2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T02:13:52.708Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MessageLog.cs",
               "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\2\\2\\MessageLog.cs",
               "RelativeDocumentMoniker": "2\\MessageLog.cs",
-              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\2\\2\\MessageLog.cs*",
-              "RelativeToolTip": "2\\MessageLog.cs*",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\2\\2\\MessageLog.cs",
+              "RelativeToolTip": "2\\MessageLog.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T01:17:38.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T01:17:38.488Z"
             },
             {
               "$type": "Document",
@@ -68,9 +80,9 @@
               "Title": "Chat.cs",
               "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\2\\2\\Chat.cs",
               "RelativeDocumentMoniker": "2\\Chat.cs",
-              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\2\\2\\Chat.cs*",
-              "RelativeToolTip": "2\\Chat.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCMAAABlAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\2\\2\\Chat.cs",
+              "RelativeToolTip": "2\\Chat.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCMAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T01:12:57.594Z",
               "EditorCaption": ""
@@ -81,24 +93,11 @@
               "Title": "ChatConstants.cs",
               "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\2\\2\\ChatConstants.cs",
               "RelativeDocumentMoniker": "2\\ChatConstants.cs",
-              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\2\\2\\ChatConstants.cs*",
-              "RelativeToolTip": "2\\ChatConstants.cs*",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\2\\2\\ChatConstants.cs",
+              "RelativeToolTip": "2\\ChatConstants.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T00:53:37.967Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BadWordFilter.cs",
-              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\2\\2\\BadWordFilter.cs",
-              "RelativeDocumentMoniker": "2\\BadWordFilter.cs",
-              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\2\\2\\BadWordFilter.cs*",
-              "RelativeToolTip": "2\\BadWordFilter.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T01:06:38.56Z",
               "EditorCaption": ""
             },
             {
@@ -107,12 +106,11 @@
               "Title": "UserList.cs",
               "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\2\\2\\UserList.cs",
               "RelativeDocumentMoniker": "2\\UserList.cs",
-              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\2\\2\\UserList.cs*",
-              "RelativeToolTip": "2\\UserList.cs*",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\2\\2\\UserList.cs",
+              "RelativeToolTip": "2\\UserList.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBsAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T00:58:12.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T00:58:12.515Z"
             }
           ]
         }
