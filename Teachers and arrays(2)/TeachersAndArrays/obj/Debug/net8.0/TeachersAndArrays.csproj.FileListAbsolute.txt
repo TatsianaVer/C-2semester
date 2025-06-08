@@ -1,0 +1,15 @@
+C:\Users\tatan\Documents\GitHub\C-2semester\Teachers and arrays\TeachersAndArrays\bin\Debug\net8.0\TeachersAndArrays.exe
+C:\Users\tatan\Documents\GitHub\C-2semester\Teachers and arrays\TeachersAndArrays\bin\Debug\net8.0\TeachersAndArrays.deps.json
+C:\Users\tatan\Documents\GitHub\C-2semester\Teachers and arrays\TeachersAndArrays\bin\Debug\net8.0\TeachersAndArrays.runtimeconfig.json
+C:\Users\tatan\Documents\GitHub\C-2semester\Teachers and arrays\TeachersAndArrays\bin\Debug\net8.0\TeachersAndArrays.dll
+C:\Users\tatan\Documents\GitHub\C-2semester\Teachers and arrays\TeachersAndArrays\bin\Debug\net8.0\TeachersAndArrays.pdb
+C:\Users\tatan\Documents\GitHub\C-2semester\Teachers and arrays\TeachersAndArrays\obj\Debug\net8.0\TeachersAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tatan\Documents\GitHub\C-2semester\Teachers and arrays\TeachersAndArrays\obj\Debug\net8.0\TeachersAndArrays.AssemblyInfoInputs.cache
+C:\Users\tatan\Documents\GitHub\C-2semester\Teachers and arrays\TeachersAndArrays\obj\Debug\net8.0\TeachersAndArrays.AssemblyInfo.cs
+C:\Users\tatan\Documents\GitHub\C-2semester\Teachers and arrays\TeachersAndArrays\obj\Debug\net8.0\TeachersAndArrays.csproj.CoreCompileInputs.cache
+C:\Users\tatan\Documents\GitHub\C-2semester\Teachers and arrays\TeachersAndArrays\obj\Debug\net8.0\TeachersAndArrays.sourcelink.json
+C:\Users\tatan\Documents\GitHub\C-2semester\Teachers and arrays\TeachersAndArrays\obj\Debug\net8.0\TeachersAndArrays.dll
+C:\Users\tatan\Documents\GitHub\C-2semester\Teachers and arrays\TeachersAndArrays\obj\Debug\net8.0\refint\TeachersAndArrays.dll
+C:\Users\tatan\Documents\GitHub\C-2semester\Teachers and arrays\TeachersAndArrays\obj\Debug\net8.0\TeachersAndArrays.pdb
+C:\Users\tatan\Documents\GitHub\C-2semester\Teachers and arrays\TeachersAndArrays\obj\Debug\net8.0\TeachersAndArrays.genruntimeconfig.cache
+C:\Users\tatan\Documents\GitHub\C-2semester\Teachers and arrays\TeachersAndArrays\obj\Debug\net8.0\ref\TeachersAndArrays.dll

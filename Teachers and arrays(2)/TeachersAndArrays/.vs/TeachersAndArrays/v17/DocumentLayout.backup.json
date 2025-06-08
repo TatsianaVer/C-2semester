@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Teachers and arrays\\TeachersAndArrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F4E3D9-51B9-471F-9094-9D232AF90C30}|TeachersAndArrays.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\teachers and arrays\\teachersandarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F4E3D9-51B9-471F-9094-9D232AF90C30}|TeachersAndArrays.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F4E3D9-51B9-471F-9094-9D232AF90C30}|TeachersAndArrays.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\teachers and arrays\\teachersandarrays\\errors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F4E3D9-51B9-471F-9094-9D232AF90C30}|TeachersAndArrays.csproj|solutionrelative:errors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F4E3D9-51B9-471F-9094-9D232AF90C30}|TeachersAndArrays.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\teachers and arrays\\teachersandarrays\\teachers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F4E3D9-51B9-471F-9094-9D232AF90C30}|TeachersAndArrays.csproj|solutionrelative:teachers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F4E3D9-51B9-471F-9094-9D232AF90C30}|TeachersAndArrays.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\teachers and arrays\\teachersandarrays\\teachers\\teacherprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F4E3D9-51B9-471F-9094-9D232AF90C30}|TeachersAndArrays.csproj|solutionrelative:teachers\\teacherprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F4E3D9-51B9-471F-9094-9D232AF90C30}|TeachersAndArrays.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\teachers and arrays\\teachersandarrays\\teachers\\universitydataprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F4E3D9-51B9-471F-9094-9D232AF90C30}|TeachersAndArrays.csproj|solutionrelative:teachers\\universitydataprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F4E3D9-51B9-471F-9094-9D232AF90C30}|TeachersAndArrays.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\teachers and arrays\\teachersandarrays\\array\\mathcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F4E3D9-51B9-471F-9094-9D232AF90C30}|TeachersAndArrays.csproj|solutionrelative:array\\mathcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Teachers and arrays\\TeachersAndArrays\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Teachers and arrays\\TeachersAndArrays\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T16:12:30.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Errors.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Teachers and arrays\\TeachersAndArrays\\Errors.cs",
+              "RelativeDocumentMoniker": "Errors.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Teachers and arrays\\TeachersAndArrays\\Errors.cs",
+              "RelativeToolTip": "Errors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T16:07:17.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Teachers and arrays\\TeachersAndArrays\\Teachers\\Program.cs",
+              "RelativeDocumentMoniker": "Teachers\\Program.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Teachers and arrays\\TeachersAndArrays\\Teachers\\Program.cs",
+              "RelativeToolTip": "Teachers\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwDUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:02:34.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeacherProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Teachers and arrays\\TeachersAndArrays\\Teachers\\TeacherProcessor.cs",
+              "RelativeDocumentMoniker": "Teachers\\TeacherProcessor.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Teachers and arrays\\TeachersAndArrays\\Teachers\\TeacherProcessor.cs",
+              "RelativeToolTip": "Teachers\\TeacherProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T11:01:29.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UniversityDataProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Teachers and arrays\\TeachersAndArrays\\Teachers\\UniversityDataProcessor.cs",
+              "RelativeDocumentMoniker": "Teachers\\UniversityDataProcessor.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Teachers and arrays\\TeachersAndArrays\\Teachers\\UniversityDataProcessor.cs",
+              "RelativeToolTip": "Teachers\\UniversityDataProcessor.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwF0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T11:10:01.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MathCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Teachers and arrays\\TeachersAndArrays\\Array\\MathCalculator.cs",
+              "RelativeDocumentMoniker": "Array\\MathCalculator.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Teachers and arrays\\TeachersAndArrays\\Array\\MathCalculator.cs",
+              "RelativeToolTip": "Array\\MathCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T10:56:19.783Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

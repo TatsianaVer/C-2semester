@@ -1,0 +1,15 @@
+C:\Users\tatan\Documents\GitHub\C-2semester\Lessons(5)\Lessons\bin\Debug\net8.0\Lessons.exe
+C:\Users\tatan\Documents\GitHub\C-2semester\Lessons(5)\Lessons\bin\Debug\net8.0\Lessons.deps.json
+C:\Users\tatan\Documents\GitHub\C-2semester\Lessons(5)\Lessons\bin\Debug\net8.0\Lessons.runtimeconfig.json
+C:\Users\tatan\Documents\GitHub\C-2semester\Lessons(5)\Lessons\bin\Debug\net8.0\Lessons.dll
+C:\Users\tatan\Documents\GitHub\C-2semester\Lessons(5)\Lessons\bin\Debug\net8.0\Lessons.pdb
+C:\Users\tatan\Documents\GitHub\C-2semester\Lessons(5)\Lessons\obj\Debug\net8.0\Lessons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tatan\Documents\GitHub\C-2semester\Lessons(5)\Lessons\obj\Debug\net8.0\Lessons.AssemblyInfoInputs.cache
+C:\Users\tatan\Documents\GitHub\C-2semester\Lessons(5)\Lessons\obj\Debug\net8.0\Lessons.AssemblyInfo.cs
+C:\Users\tatan\Documents\GitHub\C-2semester\Lessons(5)\Lessons\obj\Debug\net8.0\Lessons.csproj.CoreCompileInputs.cache
+C:\Users\tatan\Documents\GitHub\C-2semester\Lessons(5)\Lessons\obj\Debug\net8.0\Lessons.sourcelink.json
+C:\Users\tatan\Documents\GitHub\C-2semester\Lessons(5)\Lessons\obj\Debug\net8.0\Lessons.dll
+C:\Users\tatan\Documents\GitHub\C-2semester\Lessons(5)\Lessons\obj\Debug\net8.0\refint\Lessons.dll
+C:\Users\tatan\Documents\GitHub\C-2semester\Lessons(5)\Lessons\obj\Debug\net8.0\Lessons.pdb
+C:\Users\tatan\Documents\GitHub\C-2semester\Lessons(5)\Lessons\obj\Debug\net8.0\Lessons.genruntimeconfig.cache
+C:\Users\tatan\Documents\GitHub\C-2semester\Lessons(5)\Lessons\obj\Debug\net8.0\ref\Lessons.dll

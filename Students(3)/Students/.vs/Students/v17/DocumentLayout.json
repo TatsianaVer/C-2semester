@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Students(3)\\Students\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1429A6B4-C308-4D05-BC43-45F7AE80E150}|Students.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\students(3)\\students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1429A6B4-C308-4D05-BC43-45F7AE80E150}|Students.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1429A6B4-C308-4D05-BC43-45F7AE80E150}|Students.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\students(3)\\students\\undergraduatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1429A6B4-C308-4D05-BC43-45F7AE80E150}|Students.csproj|solutionrelative:undergraduatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1429A6B4-C308-4D05-BC43-45F7AE80E150}|Students.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\students(3)\\students\\phdstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1429A6B4-C308-4D05-BC43-45F7AE80E150}|Students.csproj|solutionrelative:phdstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1429A6B4-C308-4D05-BC43-45F7AE80E150}|Students.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\students(3)\\students\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1429A6B4-C308-4D05-BC43-45F7AE80E150}|Students.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1429A6B4-C308-4D05-BC43-45F7AE80E150}|Students.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\students(3)\\students\\graduatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1429A6B4-C308-4D05-BC43-45F7AE80E150}|Students.csproj|solutionrelative:graduatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1429A6B4-C308-4D05-BC43-45F7AE80E150}|Students.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\students(3)\\students\\courseconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1429A6B4-C308-4D05-BC43-45F7AE80E150}|Students.csproj|solutionrelative:courseconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1429A6B4-C308-4D05-BC43-45F7AE80E150}|Students.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\students(3)\\students\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1429A6B4-C308-4D05-BC43-45F7AE80E150}|Students.csproj|solutionrelative:course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Students(3)\\Students\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Students(3)\\Students\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T19:42:42.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UndergraduateStudent.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Students(3)\\Students\\UndergraduateStudent.cs",
+              "RelativeDocumentMoniker": "UndergraduateStudent.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Students(3)\\Students\\UndergraduateStudent.cs",
+              "RelativeToolTip": "UndergraduateStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T19:36:01.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhdStudent.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Students(3)\\Students\\PhdStudent.cs",
+              "RelativeDocumentMoniker": "PhdStudent.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Students(3)\\Students\\PhdStudent.cs",
+              "RelativeToolTip": "PhdStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T19:18:39.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GraduateStudent.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Students(3)\\Students\\GraduateStudent.cs",
+              "RelativeDocumentMoniker": "GraduateStudent.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Students(3)\\Students\\GraduateStudent.cs",
+              "RelativeToolTip": "GraduateStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T19:04:35.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Students(3)\\Students\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Students(3)\\Students\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwD0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:52:18.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseConstants.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Students(3)\\Students\\CourseConstants.cs",
+              "RelativeDocumentMoniker": "CourseConstants.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Students(3)\\Students\\CourseConstants.cs",
+              "RelativeToolTip": "CourseConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:43:26.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Students(3)\\Students\\Course.cs",
+              "RelativeDocumentMoniker": "Course.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Students(3)\\Students\\Course.cs",
+              "RelativeToolTip": "Course.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwEAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:45:25.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
