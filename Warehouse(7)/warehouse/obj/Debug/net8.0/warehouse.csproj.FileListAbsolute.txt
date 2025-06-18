@@ -13,3 +13,4 @@ C:\Users\tatan\Documents\GitHub\C-2semester\Warehouse(7)\warehouse\obj\Debug\net
 C:\Users\tatan\Documents\GitHub\C-2semester\Warehouse(7)\warehouse\obj\Debug\net8.0\warehouse.pdb
 C:\Users\tatan\Documents\GitHub\C-2semester\Warehouse(7)\warehouse\obj\Debug\net8.0\warehouse.genruntimeconfig.cache
 C:\Users\tatan\Documents\GitHub\C-2semester\Warehouse(7)\warehouse\obj\Debug\net8.0\ref\warehouse.dll
+C:\Users\tatan\Documents\GitHub\C-2semester\Warehouse(7)\warehouse\bin\Debug\net8.0\products.txt

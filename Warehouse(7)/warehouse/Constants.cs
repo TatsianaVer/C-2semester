@@ -14,12 +14,12 @@ namespace warehouse
         /// <summary>
         /// File and data processing constants
         /// </summary>
-        public const string InputFile = "C:/Users/tatan/Documents/GitHub/C-2semester/Warehouse(7)/warehouse/products.txt";
+        public const string InputFile = "products.txt";
         public const string OutputFilePrefix = "Supplier_";
         public const string OutputFileExtension = ".txt";
         public const char DataSeparator = ';';
         public const int ExpectedFieldCount = 4;
-        public const string FileName = "C:/Users/tatan/Documents/GitHub/C-2semester/Warehouse(7)/warehouse/WrittenFile.txt";
+        public const string FileName = "WrittenFile.txt";
 
         /// <summary>
         /// Report formatting constants
