@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Warehouse(7)\\warehouse\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{73FBE78B-61BD-4479-A400-C093DF28A783}|warehouse.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\warehouse(7)\\warehouse\\warehousemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FBE78B-61BD-4479-A400-C093DF28A783}|warehouse.csproj|solutionrelative:warehousemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{73FBE78B-61BD-4479-A400-C093DF28A783}|warehouse.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\warehouse(7)\\warehouse\\productrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73FBE78B-61BD-4479-A400-C093DF28A783}|warehouse.csproj|solutionrelative:productrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,8 +15,12 @@
       "RelativeMoniker": "D:0:0:{73FBE78B-61BD-4479-A400-C093DF28A783}|warehouse.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73FBE78B-61BD-4479-A400-C093DF28A783}|warehouse.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\warehouse(7)\\warehouse\\warehousemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73FBE78B-61BD-4479-A400-C093DF28A783}|warehouse.csproj|solutionrelative:warehousemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73FBE78B-61BD-4479-A400-C093DF28A783}|warehouse.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\warehouse(7)\\warehouse\\products.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{73FBE78B-61BD-4479-A400-C093DF28A783}|warehouse.csproj|solutionrelative:products.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FBE78B-61BD-4479-A400-C093DF28A783}|warehouse.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\warehouse(7)\\warehouse\\writtenfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{73FBE78B-61BD-4479-A400-C093DF28A783}|warehouse.csproj|solutionrelative:writtenfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{73FBE78B-61BD-4479-A400-C093DF28A783}|warehouse.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\warehouse(7)\\warehouse\\productcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{73FBE78B-61BD-4479-A400-C093DF28A783}|warehouse.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\warehouse(7)\\warehouse\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73FBE78B-61BD-4479-A400-C093DF28A783}|warehouse.csproj|solutionrelative:constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73FBE78B-61BD-4479-A400-C093DF28A783}|warehouse.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\warehouse(7)\\warehouse\\products.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{73FBE78B-61BD-4479-A400-C093DF28A783}|warehouse.csproj|solutionrelative:products.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73FBE78B-61BD-4479-A400-C093DF28A783}|warehouse.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\warehouse(7)\\warehouse\\writtenfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{73FBE78B-61BD-4479-A400-C093DF28A783}|warehouse.csproj|solutionrelative:writtenfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,89 +38,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Warehouse(7)\\warehouse\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Warehouse(7)\\warehouse\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAQwFQAAAAZAAAAAAAAAA==",
+              "Title": "ProductRecord.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Warehouse(7)\\warehouse\\ProductRecord.cs",
+              "RelativeDocumentMoniker": "ProductRecord.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Warehouse(7)\\warehouse\\ProductRecord.cs",
+              "RelativeToolTip": "ProductRecord.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswGcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T00:15:13.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Constants.cs",
-              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Warehouse(7)\\warehouse\\Constants.cs",
-              "RelativeDocumentMoniker": "Constants.cs",
-              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Warehouse(7)\\warehouse\\Constants.cs*",
-              "RelativeToolTip": "Constants.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBUAAABrAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T23:41:13.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductCode.cs",
-              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Warehouse(7)\\warehouse\\ProductCode.cs",
-              "RelativeDocumentMoniker": "ProductCode.cs",
-              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Warehouse(7)\\warehouse\\ProductCode.cs",
-              "RelativeToolTip": "ProductCode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T20:50:39.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T23:26:44.579Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductRecord.cs",
-              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Warehouse(7)\\warehouse\\ProductRecord.cs",
-              "RelativeDocumentMoniker": "ProductRecord.cs",
-              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Warehouse(7)\\warehouse\\ProductRecord.cs*",
-              "RelativeToolTip": "ProductRecord.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T23:26:44.579Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "WarehouseManager.cs",
               "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Warehouse(7)\\warehouse\\WarehouseManager.cs",
               "RelativeDocumentMoniker": "WarehouseManager.cs",
               "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Warehouse(7)\\warehouse\\WarehouseManager.cs",
               "RelativeToolTip": "WarehouseManager.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAiwDEAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAqwEUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-17T23:51:02.872Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "products.txt",
-              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Warehouse(7)\\warehouse\\products.txt",
-              "RelativeDocumentMoniker": "products.txt",
-              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Warehouse(7)\\warehouse\\products.txt*",
-              "RelativeToolTip": "products.txt*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-06-17T23:58:11.817Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Warehouse(7)\\warehouse\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Warehouse(7)\\warehouse\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwFQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T00:15:13.104Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "products.txt",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Warehouse(7)\\warehouse\\products.txt",
+              "RelativeDocumentMoniker": "products.txt",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Warehouse(7)\\warehouse\\products.txt",
+              "RelativeToolTip": "products.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-17T23:58:11.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "WrittenFile.txt",
               "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Warehouse(7)\\warehouse\\WrittenFile.txt",
               "RelativeDocumentMoniker": "WrittenFile.txt",
@@ -128,8 +99,31 @@
               "RelativeToolTip": "WrittenFile.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-06-18T09:17:47.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T09:17:47.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductCode.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Warehouse(7)\\warehouse\\ProductCode.cs",
+              "RelativeDocumentMoniker": "ProductCode.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Warehouse(7)\\warehouse\\ProductCode.cs",
+              "RelativeToolTip": "ProductCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T20:50:39.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Warehouse(7)\\warehouse\\Constants.cs",
+              "RelativeDocumentMoniker": "Constants.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Warehouse(7)\\warehouse\\Constants.cs",
+              "RelativeToolTip": "Constants.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBUAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T23:41:13.748Z"
             }
           ]
         }
