@@ -123,24 +123,24 @@ namespace warehouse
                 );
 
                 // Write report to file
-                using (StreamWriter writer = new StreamWriter(fileName))
-                {
-                    // Write supplier header
-                    writer.WriteLine(group.Key);
-                    writer.WriteLine(Constants.ReportHeader);
+                List<string> lines = new List<string>();
 
-                    // Write product details
-                    for (int i = 0; i < sortedProducts.Count; i++)
-                    {
-                        ProductRecord product = sortedProducts[i];
-                        writer.WriteLine(
-                            Constants.ReportRowFormat,
-                            i + 1,
-                            product.GetProductName(),
-                            product.Quantity,
-                            product.TotalValue
-                        );
-                    }
+                // Add ReportHeader
+                lines.Add(group.Key);
+                lines.Add(Constants.ReportHeader);
+
+                // Add product details
+                for (int i = 0; i < sortedProducts.Count; i++)
+                {
+                    ProductRecord product = sortedProducts[i];
+                    string line = string.Format(
+                        Constants.ReportRowFormat,
+                        i + 1,
+                        product.GetProductName(),
+                        product.Quantity,
+                        product.TotalValue
+                    );
+                    lines.Add(line);
                 }
             }
         }
