@@ -9,28 +9,28 @@ internal class Program
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("Enter Math lesson theme");
+        Console.WriteLine(LessonsConstants.MathLessonTheme);
         MathLesson math = new MathLesson(Console.ReadLine());
 
-        Console.WriteLine("Enter Science lesson theme");
+        Console.WriteLine(LessonsConstants.ScienceLessonTheme);
         ScienceLesson science = new ScienceLesson(Console.ReadLine());
 
-        Console.WriteLine("Enter History lesson theme"); 
+        Console.WriteLine(LessonsConstants.HistoryLessonTheme); 
         HistoryLesson history = new HistoryLesson(Console.ReadLine());
 
-        Console.WriteLine("Enter Math lesson duration");
+        Console.WriteLine(LessonsConstants.MathLessonDuration);
         var durationMath = Console.ReadLine();
         int mathDuration = int.Parse(durationMath);
         math.ChangeDuration(mathDuration);
         math.ConductLesson();
 
-        Console.WriteLine("Enter Science lesson duration");
+        Console.WriteLine(LessonsConstants.ScienceLessonDuration);
         var durationScience = Console.ReadLine();
         int scienceDuration = int.Parse(durationScience);
         science.ChangeDuration(scienceDuration);
         science.ConductLesson();
 
-        Console.WriteLine("Enter History lesson duration");
+        Console.WriteLine(LessonsConstants.HistoryLessonDuration);
         var durationHistory = Console.ReadLine();
         int historyDuration = int.Parse(durationHistory);
         history.ChangeDuration(historyDuration);

@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Teacher or student (6)\\TeacherOrStudent\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D703609-5C26-4B86-B486-DA774262FCE1}|TeacherOrStudent.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\teacher or student (6)\\teacherorstudent\\university_data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{9D703609-5C26-4B86-B486-DA774262FCE1}|TeacherOrStudent.csproj|solutionrelative:university_data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D703609-5C26-4B86-B486-DA774262FCE1}|TeacherOrStudent.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\teacher or student (6)\\teacherorstudent\\universitydatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D703609-5C26-4B86-B486-DA774262FCE1}|TeacherOrStudent.csproj|solutionrelative:universitydatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D703609-5C26-4B86-B486-DA774262FCE1}|TeacherOrStudent.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\teacher or student (6)\\teacherorstudent\\applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D703609-5C26-4B86-B486-DA774262FCE1}|TeacherOrStudent.csproj|solutionrelative:applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D703609-5C26-4B86-B486-DA774262FCE1}|TeacherOrStudent.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\teacher or student (6)\\teacherorstudent\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D703609-5C26-4B86-B486-DA774262FCE1}|TeacherOrStudent.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D703609-5C26-4B86-B486-DA774262FCE1}|TeacherOrStudent.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\teacher or student (6)\\teacherorstudent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D703609-5C26-4B86-B486-DA774262FCE1}|TeacherOrStudent.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D703609-5C26-4B86-B486-DA774262FCE1}|TeacherOrStudent.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\teacher or student (6)\\teacherorstudent\\applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D703609-5C26-4B86-B486-DA774262FCE1}|TeacherOrStudent.csproj|solutionrelative:applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D703609-5C26-4B86-B486-DA774262FCE1}|TeacherOrStudent.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\teacher or student (6)\\teacherorstudent\\universitydatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D703609-5C26-4B86-B486-DA774262FCE1}|TeacherOrStudent.csproj|solutionrelative:universitydatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D703609-5C26-4B86-B486-DA774262FCE1}|TeacherOrStudent.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\teacher or student (6)\\teacherorstudent\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,6 +21,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{9D703609-5C26-4B86-B486-DA774262FCE1}|TeacherOrStudent.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\teacher or student (6)\\teacherorstudent\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D703609-5C26-4B86-B486-DA774262FCE1}|TeacherOrStudent.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D703609-5C26-4B86-B486-DA774262FCE1}|TeacherOrStudent.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\teacher or student (6)\\teacherorstudent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D703609-5C26-4B86-B486-DA774262FCE1}|TeacherOrStudent.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D703609-5C26-4B86-B486-DA774262FCE1}|TeacherOrStudent.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\teacher or student (6)\\teacherorstudent\\university_data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9D703609-5C26-4B86-B486-DA774262FCE1}|TeacherOrStudent.csproj|solutionrelative:university_data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,37 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "university_data.txt",
-              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Teacher or student (6)\\TeacherOrStudent\\university_data.txt",
-              "RelativeDocumentMoniker": "university_data.txt",
-              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Teacher or student (6)\\TeacherOrStudent\\university_data.txt",
-              "RelativeToolTip": "university_data.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-06-07T18:26:46.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UniversityDataManager.cs",
-              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Teacher or student (6)\\TeacherOrStudent\\UniversityDataManager.cs",
-              "RelativeDocumentMoniker": "UniversityDataManager.cs",
-              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Teacher or student (6)\\TeacherOrStudent\\UniversityDataManager.cs",
-              "RelativeToolTip": "UniversityDataManager.cs",
-              "ViewState": "AgIAAI4AAAAAAAAAAAAkwJ8AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T20:23:57.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Teacher or student (6)\\TeacherOrStudent\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -81,39 +55,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Teacher.cs",
-              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Teacher or student (6)\\TeacherOrStudent\\Teacher.cs",
-              "RelativeDocumentMoniker": "Teacher.cs",
-              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Teacher or student (6)\\TeacherOrStudent\\Teacher.cs",
-              "RelativeToolTip": "Teacher.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAqwC8AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T20:10:53.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ApplicationSettings.cs",
-              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Teacher or student (6)\\TeacherOrStudent\\ApplicationSettings.cs",
-              "RelativeDocumentMoniker": "ApplicationSettings.cs",
-              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Teacher or student (6)\\TeacherOrStudent\\ApplicationSettings.cs",
-              "RelativeToolTip": "ApplicationSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8BAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T18:19:34.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Teacher or student (6)\\TeacherOrStudent\\Student.cs",
               "RelativeDocumentMoniker": "Student.cs",
               "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Teacher or student (6)\\TeacherOrStudent\\Student.cs",
               "RelativeToolTip": "Student.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAqwG0AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAkwFUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T19:28:54.101Z",
               "EditorCaption": ""
@@ -121,14 +69,65 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "UniversityDataManager.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Teacher or student (6)\\TeacherOrStudent\\UniversityDataManager.cs",
+              "RelativeDocumentMoniker": "UniversityDataManager.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Teacher or student (6)\\TeacherOrStudent\\UniversityDataManager.cs",
+              "RelativeToolTip": "UniversityDataManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T20:23:57.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Teacher or student (6)\\TeacherOrStudent\\Person.cs",
               "RelativeDocumentMoniker": "Person.cs",
               "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Teacher or student (6)\\TeacherOrStudent\\Person.cs",
               "RelativeToolTip": "Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowF8AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T17:18:41.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationSettings.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Teacher or student (6)\\TeacherOrStudent\\ApplicationSettings.cs",
+              "RelativeDocumentMoniker": "ApplicationSettings.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Teacher or student (6)\\TeacherOrStudent\\ApplicationSettings.cs",
+              "RelativeToolTip": "ApplicationSettings.cs",
+              "ViewState": "AgIAABwBAAAAAAAAAAAAACIBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T18:19:34.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "university_data.txt",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Teacher or student (6)\\TeacherOrStudent\\university_data.txt",
+              "RelativeDocumentMoniker": "university_data.txt",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Teacher or student (6)\\TeacherOrStudent\\university_data.txt",
+              "RelativeToolTip": "university_data.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-07T18:26:46.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Teacher or student (6)\\TeacherOrStudent\\Teacher.cs",
+              "RelativeDocumentMoniker": "Teacher.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Teacher or student (6)\\TeacherOrStudent\\Teacher.cs",
+              "RelativeToolTip": "Teacher.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T20:10:53.818Z",
               "EditorCaption": ""
             }
           ]

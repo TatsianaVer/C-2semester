@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Lessons(5)\\Lessons\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F759781B-FA80-4F40-AA8F-8C74B30EFE12}|Lessons.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\lessons(5)\\lessons\\lessonsconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F759781B-FA80-4F40-AA8F-8C74B30EFE12}|Lessons.csproj|solutionrelative:lessonsconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F759781B-FA80-4F40-AA8F-8C74B30EFE12}|Lessons.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\lessons(5)\\lessons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F759781B-FA80-4F40-AA8F-8C74B30EFE12}|Lessons.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F759781B-FA80-4F40-AA8F-8C74B30EFE12}|Lessons.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\lessons(5)\\lessons\\sciencelesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F759781B-FA80-4F40-AA8F-8C74B30EFE12}|Lessons.csproj|solutionrelative:sciencelesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F759781B-FA80-4F40-AA8F-8C74B30EFE12}|Lessons.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\lessons(5)\\lessons\\mathlesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F759781B-FA80-4F40-AA8F-8C74B30EFE12}|Lessons.csproj|solutionrelative:mathlesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,6 +13,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{F759781B-FA80-4F40-AA8F-8C74B30EFE12}|Lessons.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\lessons(5)\\lessons\\historylesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F759781B-FA80-4F40-AA8F-8C74B30EFE12}|Lessons.csproj|solutionrelative:historylesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F759781B-FA80-4F40-AA8F-8C74B30EFE12}|Lessons.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\lessons(5)\\lessons\\sciencelesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F759781B-FA80-4F40-AA8F-8C74B30EFE12}|Lessons.csproj|solutionrelative:sciencelesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F759781B-FA80-4F40-AA8F-8C74B30EFE12}|Lessons.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\lessons(5)\\lessons\\lessonsconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F759781B-FA80-4F40-AA8F-8C74B30EFE12}|Lessons.csproj|solutionrelative:lessonsconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F759781B-FA80-4F40-AA8F-8C74B30EFE12}|Lessons.csproj|c:\\users\\tatan\\documents\\github\\c-2semester\\lessons(5)\\lessons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F759781B-FA80-4F40-AA8F-8C74B30EFE12}|Lessons.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,81 +38,79 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ScienceLesson.cs",
-              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Lessons(5)\\Lessons\\ScienceLesson.cs",
-              "RelativeDocumentMoniker": "ScienceLesson.cs",
-              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Lessons(5)\\Lessons\\ScienceLesson.cs",
-              "RelativeToolTip": "ScienceLesson.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAYwB0AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T20:44:10.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Lessons(5)\\Lessons\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Lessons(5)\\Lessons\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAswCcAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T20:47:11.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "LessonsConstants.cs",
               "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Lessons(5)\\Lessons\\LessonsConstants.cs",
               "RelativeDocumentMoniker": "LessonsConstants.cs",
               "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Lessons(5)\\Lessons\\LessonsConstants.cs",
               "RelativeToolTip": "LessonsConstants.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T21:56:23.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T21:56:23.888Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MathLesson.cs",
-              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Lessons(5)\\Lessons\\MathLesson.cs",
-              "RelativeDocumentMoniker": "MathLesson.cs",
-              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Lessons(5)\\Lessons\\MathLesson.cs",
-              "RelativeToolTip": "MathLesson.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCEAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T20:28:20.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Lesson.cs",
               "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Lessons(5)\\Lessons\\Lesson.cs",
               "RelativeDocumentMoniker": "Lesson.cs",
               "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Lessons(5)\\Lessons\\Lesson.cs",
               "RelativeToolTip": "Lesson.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAgwE0AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAmwEsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-06T20:13:06.47Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "MathLesson.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Lessons(5)\\Lessons\\MathLesson.cs",
+              "RelativeDocumentMoniker": "MathLesson.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Lessons(5)\\Lessons\\MathLesson.cs",
+              "RelativeToolTip": "MathLesson.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T20:28:20.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScienceLesson.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Lessons(5)\\Lessons\\ScienceLesson.cs",
+              "RelativeDocumentMoniker": "ScienceLesson.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Lessons(5)\\Lessons\\ScienceLesson.cs",
+              "RelativeToolTip": "ScienceLesson.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T20:44:10.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "HistoryLesson.cs",
               "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Lessons(5)\\Lessons\\HistoryLesson.cs",
               "RelativeDocumentMoniker": "HistoryLesson.cs",
               "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Lessons(5)\\Lessons\\HistoryLesson.cs",
               "RelativeToolTip": "HistoryLesson.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-06T20:12:48.936Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Lessons(5)\\Lessons\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\tatan\\Documents\\GitHub\\C-2semester\\Lessons(5)\\Lessons\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T20:47:11.904Z"
             }
           ]
         }
