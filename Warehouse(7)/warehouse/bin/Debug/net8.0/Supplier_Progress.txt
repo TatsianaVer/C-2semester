@@ -1,4 +1,0 @@
-Progress
-| #    | Product Name    | Stock Quantity | Total Value  |
-|---|---|---|---|
-| 1 | Chair | 35 | 875 000,00 ₽ |

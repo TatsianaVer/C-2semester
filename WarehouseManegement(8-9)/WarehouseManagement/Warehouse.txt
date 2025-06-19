@@ -1,0 +1,4 @@
+Chair;Progress;25;385
+Chair;Petrov;23;200
+Wardrobe;Petrov;12;15
+Desk;Office Suppliers Inc;15;42

@@ -1,4 +1,0 @@
-Petrov
-| #    | Product Name    | Stock Quantity | Total Value  |
-|---|---|---|---|
-| 1 | Closet | 28 | 1 400 000,00 ₽ |
